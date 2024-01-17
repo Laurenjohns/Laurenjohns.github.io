@@ -1,5 +1,6 @@
 
-![Engineering with Lauren](engineering_lauren.png)
+![Engineering with Lauren](Engineering%20with%20Lauren.png)
+
 
 
 
