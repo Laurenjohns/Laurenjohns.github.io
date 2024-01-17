@@ -1,4 +1,4 @@
-# Engineering with Lauren
+![Lauren Johns' Banner](lj%20banner.png)
 
 ## Dedicated engineer with a passion for enhancing system design while optimizing business development. Forward-thinker that values innovation and encourages continuous learning into new technologies that help determine alignment with business needs in a budget-conscious and decisive approach.
 
