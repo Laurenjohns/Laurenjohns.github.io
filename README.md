@@ -1,1 +1,1 @@
-![Lauren Johns' Banner](engineeringwithlauren.png)
+![Engineering with Lauren](engineeringwithlauren.png)
